@@ -1,5 +1,5 @@
 ---
-title: Ronald Moore
+title: Rondale Moore
 date: 2023-04-09
 author: Adam
 desc: Arizona Cardinals WR Rondale Moore SLEEPER CANDIDATE -> click to read more...
