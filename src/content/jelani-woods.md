@@ -1,8 +1,8 @@
 ---
-title: 2023 Sleeper Candidates: Jelani Woods
+title: Jelani Woods
 date: 2022-04-08
 author: Adam
-desc: Jelani Woods - Indianapolis Colts Tight End 
+desc: Jelani Woods - Indianapolis Colts Tight End SLEEPER CANDIDATE -> click to read more...
 img: https://coltswire.usatoday.com/wp-content/uploads/sites/49/2022/08/4c5880d28a9e4936832755e486aae371.jpg?w=1000&h=600&crop=1
 imgWidth: 500
 imgHeight: 500
