@@ -1,6 +1,6 @@
 ---
 title: Adam's 2023 Sleeper Candidates
-date: 2023-04-09
+date: 2023-09-04
 author: Adam
 desc: learn more about my picks for the 2023 sleeper candidates in the NFL -> click to read more
 img: https://images.pexels.com/photos/7154759/pexels-photo-7154759.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
